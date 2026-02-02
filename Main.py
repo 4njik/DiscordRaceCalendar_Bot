@@ -12,7 +12,7 @@ import aiohttp
 # КОНФИГУРАЦИЯ
 # ======================
 DISCORD_TOKEN = ""
-NOTIFICATION_CHANNEL_ID = 993971368964128768
+NOTIFICATION_CHANNEL_ID = 
 CHECK_TIME_UTC = 8  # Время ежедневной проверки в UTC
 PEPEGA_ROLE_ID = 1467435408530079866  # ← сюда вставьте скопированный ID
 
