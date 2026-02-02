@@ -11,7 +11,7 @@ import aiohttp
 # ======================
 # КОНФИГУРАЦИЯ
 # ======================
-DISCORD_TOKEN = "MTQ2Nzc5MTc2MzQ5NzQyMjk5Mg.GpHF2M.dSN1UT2BHu7_CMpWKV5DmnVzW8Mle-V3sXhmk8"
+DISCORD_TOKEN = ""
 NOTIFICATION_CHANNEL_ID = 993971368964128768
 CHECK_TIME_UTC = 8  # Время ежедневной проверки в UTC
 PEPEGA_ROLE_ID = 1467435408530079866  # ← сюда вставьте скопированный ID
