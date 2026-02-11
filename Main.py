@@ -12,7 +12,7 @@ import aiohttp
 # КОНФИГУРАЦИЯ
 # ======================
 DISCORD_TOKEN = ""
-NOTIFICATION_CHANNEL_ID = 
+NOTIFICATION_CHANNEL_ID = 993971368964128768
 CHECK_TIME_UTC = 8  # Время ежедневной проверки в UTC
 PEPEGA_ROLE_ID = 1467435408530079866  # ← сюда вставьте скопированный ID
 
@@ -20,8 +20,8 @@ PEPEGA_ROLE_ID = 1467435408530079866  # ← сюда вставьте скопи
 LEAGUES = {
     "🏎️ F1": ["Formula 1"],
     "🏍️ MotoGP": ["MotoGP"],
-    "🌲 WRC": ["World Rally Championship"],
-    " endurance WEC": ["FIA World Endurance Championship"],
+    "🌲 WRC": ["wrc"],
+    " endurance WEC": ["wec"],
     "🏁 IMSA": ["IMSA SportsCar Championship"],
     "🇺🇸 NASCAR": ["NASCAR Cup Series"]
 }
